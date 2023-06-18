@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: Black;
   }
   * {
     box-sizing: border-box;
@@ -10,6 +10,11 @@ body {
     margin: auto;
   }
   
+  h1   {
+    color: white;
+    animation-;
+  }
+
   .slider-wrapper {
     margin: 1rem;
     position: relative;
@@ -68,7 +73,7 @@ body {
   }
   
   .slide:nth-child(1) {
-    background-color: #49b293;
+    background-color: white;
   }
   
   .slide:nth-child(2) {
@@ -99,9 +104,3 @@ body {
   footer .heart {
     color: #DC143C;
   }
-  
-  
-  
-  
-  
-  Resources
